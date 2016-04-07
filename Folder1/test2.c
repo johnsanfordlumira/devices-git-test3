@@ -7,3 +7,8 @@ static void MyFunc (int x)
 	
 }
 
+static void PaulsNewFunc (int y)
+{
+    /* do soemthing else - so there */
+}
+
