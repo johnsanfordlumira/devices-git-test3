@@ -27,3 +27,8 @@ static void Func_PaulNewRev_2 (int y)
     /* what are you thinking? */
 }
 
+static void Func_PaulNewRev_3 (int y)
+{
+    /* no mas! */
+}
+
