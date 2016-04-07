@@ -14,5 +14,5 @@ static void PaulsNewFunc (int y)
 
 static void AnotherNewFunc (int y)
 {
-    /* do soemthing else - ho hum */
+    /* One more time - ha ha! */
 }
