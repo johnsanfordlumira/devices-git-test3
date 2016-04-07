@@ -22,3 +22,8 @@ static void Func_PaulNewRev_1 (int y)
     /* get outta here! */
 }
 
+static void Func_PaulNewRev_2 (int y)
+{
+    /* what are you thinking? */
+}
+
