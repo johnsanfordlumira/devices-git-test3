@@ -38,3 +38,8 @@ void testFunc5 (void)
     
 }
 
+
+void testFunc6 (void)
+{
+    
+}
