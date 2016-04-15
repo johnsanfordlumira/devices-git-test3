@@ -1,0 +1,4 @@
+void JohnNewFunc (void)
+{
+    
+}
