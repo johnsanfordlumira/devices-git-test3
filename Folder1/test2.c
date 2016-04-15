@@ -16,3 +16,19 @@ static void AnotherNewFunc (int y)
 {
     /* One more time - ha ha! */
 }
+
+static void Func_PaulNewRev_1 (int y)
+{
+    /* get outta here! */
+}
+
+static void Func_PaulNewRev_2 (int y)
+{
+    /* what are you thinking? */
+}
+
+static void Func_PaulNewRev_3 (int y)
+{
+    /* no mas! */
+}
+
