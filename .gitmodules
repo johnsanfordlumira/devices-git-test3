@@ -4,3 +4,6 @@
 [submodule "GitTestCommon2"]
 	path = GitTestCommon2
 	url = https://github.com/johnsanfordlumira/devices-git-test-common2
+[submodule "GitTestCommon3"]
+	path = GitTestCommon3
+	url = https://github.com/johnsanfordlumira/devices-git-test-common3
